@@ -1,22 +1,10 @@
 body {
-  background: grey;
-}
-
-h1 {
-  color: blue;
-  font-size: 85px;
-  font-family: cursive;
-  text-align: center;
+  background-color: #181818;
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-}
-
-h3 {
-  color: blue;
-  text-align: center;
+    width: 40%;
 }
